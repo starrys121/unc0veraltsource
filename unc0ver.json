@@ -1,0 +1,40 @@
+{
+  "name": "unc0ver Source (Unoffical)",
+  "identifier": "science.xnu.undecimus",
+  "apps": [
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "pwn20wnd",
+      "subtitle": "The most advanced jailbreaking tool. iOS 11.0 - 13.5",
+      "version": "5.2.0",
+      "versionDate": "2020-06-9T12:00:00-00:00",
+      "versionDescription": "Enable iOS 13.5.5~b1 support.\n\nFix a logic bug in disabling auto updates.\n\nUpdate bundled Cydia to fix crashes on iOS 13.5 with Hardware Keyboard enabled",
+      "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v5.2.0/unc0ver_5.2.0.ipa",
+      "localizedDescription": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nThis source is unoffical however the download link to the ipa is the offical github download.\n\nAll unc0ver credit to pwn20wnd",
+      "iconURL": "https://raw.githubusercontent.com/starrys121/uncoveraltsource/master/unc0vericon.jpg",
+      "tintColor": "#8c8c8c",
+      "size": 345885912,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/starrys121/uncoveraltsource/master/screen1.PNG",
+        "https://raw.githubusercontent.com/starrys121/uncoveraltsource/master/screen2.PNG",
+        "https://raw.githubusercontent.com/starrys121/uncoveraltsource/master/screen3.PNG"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "unc0ver",
+      "identifier": "unc0ver-news",
+      "caption": "The most advanced jailbreaking tool. iOS 11.0 - 13.5",
+      "tintColor": "#8c8c8c",
+      "imageURL": "https://raw.githubusercontent.com/starrys121/uncoveraltsource/master/background.jpg",
+      "appID": "science.xnu.undecimus",
+      "date": "2020-06-10",
+      "notify": true
+    }
+  ],
+  "userInfo": {
+
+  }
+}
