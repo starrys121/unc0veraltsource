@@ -7,10 +7,10 @@
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "pwn20wnd",
       "subtitle": "The most advanced jailbreaking tool. iOS 11.0 - 13.5",
-      "version": "5.2.1",
-      "versionDate": "2020-07-8T12:00:00-00:00",
-      "versionDescription": "Fixes include fixing jailbreak errors on A7 and A8 devices. (iOS and tvOS)",
-      "downloadURL": "https://unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
+      "version": "5.3.1",
+      "versionDate": "2020-07-23T12:00:00-00:00",
+      "versionDescription": "Fix support for removing leftover files from RootLessJB",
+      "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
       "localizedDescription": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nThis source is unoffical however the download link to the ipa is the offical github download.\n\nAll unc0ver credit to pwn20wnd",
       "iconURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/unc0vericon.jpg",
       "tintColor": "#8c8c8c",
@@ -32,7 +32,7 @@
       "tintColor": "#8c8c8c",
       "imageURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/background.jpg",
       "appID": "science.xnu.undecimus",
-      "date": "2020-07-8",
+      "date": "2020-07-23",
       "notify": true
     }
   ],
